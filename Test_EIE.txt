@@ -4,3 +4,6 @@ U=I*R
 suma natężeń prądów wpływających do węzła musi równać się sumie natężeń prądów wypływających z węzła xd
 3. Podaj definicję drugiego prawa Kirchhoffa
 suma spadków napięć na oporach równa jest sumie sił elektromotorycznych występujących w tym obwodzie
+
+Ocena końcowa:
+W związku na panujace warunki i mozliwosci dostepu do internetu wystawiam Panu mocne 3 za chęci. Dziekuje.
