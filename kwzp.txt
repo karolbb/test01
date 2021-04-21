@@ -7,4 +7,3 @@ Paweł Styczewski
 Za szybko zrobiłem pusha
 Nacisnąłem pusha po raz drugi...
 >>>>>>> 87714249c9987daa0202f7dbe835093247813729
-następne
