@@ -1,2 +1,3 @@
 1. Podaj definicję prawo Ohma
 U=I*R 
+2. Podaj definicję pierwszego prawa Kirchhoffa
