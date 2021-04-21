@@ -1,4 +1,9 @@
 Karol Brzezinski
 Paweł Styczewski
+<<<<<<< HEAD
 21.04.21r
 21.04.21r v2
+=======
+Za szybko zrobiłem pusha
+Nacisnąłem pusha po raz drugi...
+>>>>>>> 87714249c9987daa0202f7dbe835093247813729

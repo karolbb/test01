@@ -1,0 +1,2 @@
+1. Podaj definicję prawo Ohma
+U=I*R 
