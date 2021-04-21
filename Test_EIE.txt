@@ -2,3 +2,4 @@
 U=I*R 
 2. Podaj definicję pierwszego prawa Kirchhoffa
 suma natężeń prądów wpływających do węzła musi równać się sumie natężeń prądów wypływających z węzła xd
+3. Podaj definicję drugiego prawa Kirchhoffa
